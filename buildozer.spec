@@ -1,7 +1,7 @@
 [app]
-title = ControleAid
-package.name = controleaid
-package.domain = org.controleaid
+title = AidAdha Controle
+package.name = aidadha
+package.domain = org.aidadha
 source.dir = .
 source.include_exts = py,png,jpg,kv,atlas,xlsx
 version = 1.0
